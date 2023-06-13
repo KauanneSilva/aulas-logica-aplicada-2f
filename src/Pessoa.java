@@ -1,5 +1,5 @@
 public class Pessoa extends Animal {
-    public String sobrenome;
+    String sobrenome;
     // atributos da classe
 
     String Sobrenome;
